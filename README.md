@@ -8,7 +8,7 @@ Dies ist eine inoffizielle deutsche Textdatei für das Spiel _FANTASIAN Neo Dime
 
 ![Screenshot 1](./screen1.jpg)
 ![Screenshot 2](./screen2.jpg)
-![Screenshot 3](.screen3.jpg)
+![Screenshot 3](./screen3.jpg)
 
 
 ---
