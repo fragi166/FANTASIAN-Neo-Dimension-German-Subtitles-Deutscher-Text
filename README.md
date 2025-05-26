@@ -3,7 +3,9 @@
 Dies ist eine inoffizielle deutsche Textdatei für das Spiel _FANTASIAN Neo Dimension_ (Steam-Version).
 Übersetzung ist noch nicht zu 100% fertig. Aber Spiel ist Komplet durchspielbar.
 ---
-
+Bei Fragen und Hilfe könnt ihr mich gerne bei Steam Adden
+https://steamcommunity.com/profiles/76561198032743597
+Freundschaftsanfragen und ein kleines Hallo auf meiner Steam Seite sind immer gerne gesehen.
 ## 📸 Vorschau
 
 ![Screenshot 1](./screen1.jpg)
