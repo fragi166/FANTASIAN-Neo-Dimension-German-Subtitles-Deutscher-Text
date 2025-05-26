@@ -1,7 +1,7 @@
 # 🇩🇪 Deutsche Übersetzung für FANTASIAN Neo Dimension
 
 Dies ist eine inoffizielle deutsche Textdatei für das Spiel _FANTASIAN Neo Dimension_ (Steam-Version).
-
+Übersetzung ist noch nicht zu 100% fertig. Aber Spiel ist Komplet durchspielbar.
 ---
 
 ## 📸 Vorschau
