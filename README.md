@@ -15,7 +15,7 @@ Dies ist eine inoffizielle deutsche Textdatei für das Spiel _FANTASIAN Neo Dime
 
 ## 📦 Installation
 
-1. Lade die Datei `1485770343_message_en_us` herunter.
+1. Lade die Datei `1485770343_message_en_us.rar` herunter.
 2. Entpacke die Datei.
 3. Kopiere die entpackte Datei in folgendes Verzeichnis:
 
