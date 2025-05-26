@@ -6,10 +6,10 @@ Dies ist eine inoffizielle deutsche Textdatei für das Spiel _FANTASIAN Neo Dime
 
 ## 📸 Vorschau
 
-![Screenshot 1](./20250202200254_1.jpg)
-![Screenshot 2](./20250505210306_1.jpg)
-![Screenshot 3](./20250505223935_1.jpg)
-![Screenshot 4](./20250506082645_1.jpg)
+![Screenshot 1](./screen1.jpg)
+![Screenshot 2](./screen2.jpg)
+![Screenshot 3](.screen3.jpg)
+
 
 ---
 
@@ -36,10 +36,10 @@ This is an unofficial German translation file for the game _FANTASIAN Neo Dimens
 
 ## 📸 Preview
 
-![Screenshot 1](./20250202200254_1.jpg)
-![Screenshot 2](./20250505210306_1.jpg)
-![Screenshot 3](./20250505223935_1.jpg)
-![Screenshot 4](./20250506082645_1.jpg)
+![Screenshot 1](./screen1.jpg)
+![Screenshot 2](./screen2.jpg)
+![Screenshot 3](./screen3.jpg)
+
 
 ---
 
